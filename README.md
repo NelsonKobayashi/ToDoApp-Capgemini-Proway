@@ -6,8 +6,8 @@
 
 O projeto foi construído durante a etapa de lógica de programação e algoritmos III, utilizando Java Swing para construção de telas, Java no código e JDBC para persistência de dados, com Banco de Dados em MySql.
 
-Ferramenta/Tecnologia
---------- | ------
+###Ferramenta/Tecnologia
+
 OpenJDK 
 Gradle 
 Apache Netbeans 
