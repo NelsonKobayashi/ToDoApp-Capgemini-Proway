@@ -8,11 +8,7 @@ O projeto foi construído durante a etapa de lógica de programação e algoritm
 
 ###Ferramenta/Tecnologia
 
-OpenJDK 
-Gradle 
-Apache Netbeans 
-MySQL
-JDBC / Connector 
+OpenJDK | Gradle | Apache Netbeans | MySQL | JDBC / Connector 
 
 A aplicação consiste em um gerenciador de tarefas básicos (to do) a fim de utilizar todas as tecnologias vistas anteriormente. 
 
