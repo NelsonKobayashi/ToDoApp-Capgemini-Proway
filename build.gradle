@@ -1,0 +1,16 @@
+apply plugin: 'java'
+apply plugin: 'jacoco'
+apply plugin: 'application'
+
+
+description = 'Aplicação de Controle de Tarefas'
+
+mainClassName = 'TodoApp.Main'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation     'junit:junit:4.13'
+}
